@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T09:30:49.479Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="YttPXEwZDgz2s4GynCw1" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T09:33:55.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="z6d4E0iMKlWOK8LcB8df" version="21.6.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1562" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,7 +123,7 @@
         <mxCell id="8wjIcGyNlAFSRhuU1HUV-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="8wjIcGyNlAFSRhuU1HUV-28" vertex="1">
           <mxGeometry x="200" y="89.58333333333333" width="120" height="71.66666666666667" as="geometry" />
         </mxCell>
-        <mxCell id="8wjIcGyNlAFSRhuU1HUV-25" value="Plusieurs Regimes possible pour avoir des recette personnalisées" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="8wjIcGyNlAFSRhuU1HUV-28" vertex="1">
+        <mxCell id="8wjIcGyNlAFSRhuU1HUV-25" value="Plusieurs Regimes possible pour avoir des recettes personnalisées" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="8wjIcGyNlAFSRhuU1HUV-28" vertex="1">
           <mxGeometry x="200" y="89.58333333333333" width="120" height="71.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="8wjIcGyNlAFSRhuU1HUV-27" value="" style="group" parent="8wjIcGyNlAFSRhuU1HUV-28" vertex="1" connectable="0">
